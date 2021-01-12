@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP60001UT-local
+D OPAmp symbol for simulation only
+K simulation
+F ~
+$ENDCMP
+#
+$CMP MCP6001UT-I_OT
+D 1 MHz, Low-Power Op Amp
+F http://componentsearchengine.com/Datasheets/3/MCP6001UT-I_OT.pdf
+$ENDCMP
+#
+#End Doc Library

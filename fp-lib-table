@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name high-current-sense-relay)(type KiCad)(uri ${KIPRJMOD}/high-current-sense-relay.pretty)(options "")(descr ""))
+)
